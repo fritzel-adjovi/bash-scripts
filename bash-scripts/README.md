@@ -1,4 +1,4 @@
-# 📜 Bash Scripts — Gestion d'utilisateurs Linux
+#  Bash Scripts — Gestion d'utilisateurs Linux
 
 Scripts Bash développés dans le cadre de ma formation **Bachelor Administrateur Infrastructure Sécurisée** à l'IPSSI Lille (2025/2026).
 
@@ -12,7 +12,7 @@ Scripts Bash développés dans le cadre de ma formation **Bachelor Administrateu
 | `verification_user_env.sh` | Utilisation de la variable d'environnement `USER_FILE` |
 | `check_login.sh` | Intégration des règles PAM dans la vérification |
 
-## 🚀 Utilisation
+##  Utilisation
 
 ```bash
 # Cloner le dépôt
@@ -26,13 +26,13 @@ chmod +x *.sh
 ./verification_boucles.sh
 ```
 
-## 📋 Prérequis
+##  Prérequis
 
 - Système Linux (Ubuntu 24.04 recommandé)
 - Bash 5.x
 - Droits sudo pour certains scripts
 
-## 🔍 Détail des scripts
+##  Détail des scripts
 
 ### `verification_boucles.sh`
 Script interactif qui vérifie :
